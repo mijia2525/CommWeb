@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mijia/Desktop/TestWeb/BackEnd/BackEnd/BackEnd.csproj": {}
+    "/Users/liu/Desktop/CommWeb/CommWeb/BackEnd/BackEnd/BackEnd.csproj": {}
   },
   "projects": {
-    "/Users/mijia/Desktop/TestWeb/BackEnd/BackEnd/BackEnd.csproj": {
+    "/Users/liu/Desktop/CommWeb/CommWeb/BackEnd/BackEnd/BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mijia/Desktop/TestWeb/BackEnd/BackEnd/BackEnd.csproj",
+        "projectUniqueName": "/Users/liu/Desktop/CommWeb/CommWeb/BackEnd/BackEnd/BackEnd.csproj",
         "projectName": "BackEnd",
-        "projectPath": "/Users/mijia/Desktop/TestWeb/BackEnd/BackEnd/BackEnd.csproj",
-        "packagesPath": "/Users/mijia/.nuget/packages/",
-        "outputPath": "/Users/mijia/Desktop/TestWeb/BackEnd/BackEnd/obj/",
+        "projectPath": "/Users/liu/Desktop/CommWeb/CommWeb/BackEnd/BackEnd/BackEnd.csproj",
+        "packagesPath": "/Users/liu/.nuget/packages/",
+        "outputPath": "/Users/liu/Desktop/CommWeb/CommWeb/BackEnd/BackEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mijia/.nuget/NuGet/NuGet.Config"
+          "/Users/liu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
